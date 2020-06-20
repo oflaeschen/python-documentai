@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/python-documentai/compare/v0.2.0...v0.3.0) (2020-06-20)
+
+
+### Features
+
+* add async client ([#26](https://www.github.com/googleapis/python-documentai/issues/26)) ([ea83083](https://www.github.com/googleapis/python-documentai/commit/ea83083c315d4a97c29df35955f9547e2f869114))
+
+
+### Bug Fixes
+
+* **python:** change autodoc_default_flags to autodoc_default_options ([#27](https://www.github.com/googleapis/python-documentai/issues/27)) ([4eefc0a](https://www.github.com/googleapis/python-documentai/commit/4eefc0abf9a36cff8639c16c49d09487433b325b))
+
 ## [0.2.0](https://www.github.com/googleapis/python-documentai/compare/v0.1.0...v0.2.0) (2020-05-28)
 
 
